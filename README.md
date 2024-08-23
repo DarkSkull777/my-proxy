@@ -15,11 +15,13 @@ Before you get started, make sure you have the following installed:
 - `requests` library
 - `argparse` library
 - `termcolor` library
+- `flake9` library
+- `pep8-naming` library
 
-You can install the required libraries using pip:
+You can install the required libraries with:
 
 ```bash
-pip install requests argparse termcolor
+pip install -r requirements.txt
 ```
 
 ## 1. Proxy Checker
