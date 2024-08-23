@@ -1,6 +1,6 @@
 # My Proxy - Fast and Easy Proxy Testing and Scraping
 
-Welcome to the **My Proxy**! This repository contains two powerful scripts to help you with your proxy needs: a Proxy Checker and a Proxy Scraper. Whether you're testing proxies for reliability or scraping fresh proxies from the web, these tools have got you covered.
+Hey there, welcome to the **My Proxy** repo! 🚀 If you're into proxies, you've hit the jackpot. We've got two awesome scripts here to help you with all your proxy shenanigans: a Proxy Checker and a Proxy Scraper.
 
 ## Contents
 
