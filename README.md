@@ -11,7 +11,7 @@ Welcome to the **My Proxy**! This repository contains two powerful scripts to he
 
 Before you get started, make sure you have the following installed:
 
-- Python 3.x
+- Python 3
 - `requests` library
 - `argparse` library
 - `termcolor` library
