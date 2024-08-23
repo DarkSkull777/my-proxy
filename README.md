@@ -15,7 +15,7 @@ Before you get started, make sure you have the following installed:
 - `requests` library
 - `argparse` library
 - `termcolor` library
-- `flake9` library
+- `flake8` library
 - `pep8-naming` library
 
 You can install the required libraries with:
